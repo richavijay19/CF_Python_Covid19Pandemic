@@ -19,6 +19,8 @@ As Linear regression wasn’t enough to fully explain the data, so I used anothe
 
 To see the steps of my work in Python and the results, please refer to files in this repository
 
+[Click to see the Tableau Story](https://public.tableau.com/app/profile/richavijay/viz/Pandemic-CovidDataAnalysis/Covid19-PandemicDataAnalysis?publish=yes)
+
 
 
 
